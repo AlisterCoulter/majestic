@@ -1,0 +1,3 @@
+npx create-react-app machine-check-app
+cd machine-check-app
+npm install axios
